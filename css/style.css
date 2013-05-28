@@ -1,10 +1,14 @@
+html {
+	background: url("http://2.bp.blogspot.com/_IQY5v1LXSr8/SaJ2gIS188I/AAAAAAAAAEE/fNHhrdNjgTc/s400/gursky-rhein-1996.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
 body {
 	color: #fff;
 
 }
 
 .nav {
-	background: #000;
+	background: #dcdcdc;
 	color: #fff;
 	width: 420px;
 	padding: 15px;
@@ -31,15 +35,15 @@ a:hover {
 
 
 #container {
-	background: #000;
+	background: #dcdcdc;
 	width: 420px;
-	height: 420px;
+	height: 264px;
 	padding: 15px;
 	margin: auto;
 	border-radius: 5px;
 }
 h1, h4{
-	color:rgba(200,230,33,.5);
+	color: #4f9c2a;
 	opacity: .64;
 	font-family: Verdana;
 
@@ -63,13 +67,15 @@ h1, h4{
 
 #writing {
 	float: right;
-	width: 280px;
+	width: 300px;
 	font-family: Verdana;
 }
 
 #writing p {
 	margin: 0px;
-	color: rgba(255,255,254,.82);
+	color: #4f9c2a;
+	text-align: justify;
+	padding-right: 5px;
 }
 
 
