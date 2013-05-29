@@ -44,7 +44,7 @@ a:hover {
 	margin-left: 24px;
 	border-radius: 5px;
 }
-h1, h4{
+h1, h4 {
 	color: #4f9c2a;
 	opacity: .64;
 	font-family: Verdana;
@@ -90,5 +90,16 @@ h1, h4{
 	margin-top: 24px;
 	border-radius: 5px;
 }
+ 
+#footer p {
+	color: #4f9c2a;
+	opacity: .64;
+	font-family: Verdana;
+	font-size: 12px;
+	text-align: center;
+
+
+} 
+
 
 
